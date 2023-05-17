@@ -1,0 +1,36 @@
+_repo: US-copyright-renewals-artwork-1965-1977_70611
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Library of Congress. Copyright Office
+    aliases:
+    - United States. Copyright Office
+    - Library of Congress. Register of Copyrights
+    - Office, U.S. Copyright
+    - Congress, U. S. Copyright Office Library of
+    - Congress, Copyright Office Library of
+    - Office, Copyright
+    gutenberg_agent_id: '141'
+    url: http://www.gutenberg.org/2009/agents/141
+    wikipedia: https://en.wikipedia.org/wiki/United_States_Copyright_Office
+description: ''
+gutenberg_issued: '2023-04-21'
+identifiers:
+  gutenberg: '70611'
+language: en
+pgterms:marc904: https://archive.org/details/catalogofco1965319711libr
+pgterms:marc905: 20220810101128copyrighto
+pgterms:marc906: '1965'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bLibrary of Congress, $c1965, pubdate 1977.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Copyright -- Art -- United States -- Catalogs -- Periodicals'
+- !lcc 'Z'
+- GITenberg
+title: 'U.S. copyright renewals: artwork 1965-1977'
+url: http://www.gutenberg.org/ebooks/70611
