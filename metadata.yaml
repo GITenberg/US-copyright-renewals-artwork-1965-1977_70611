@@ -1,5 +1,8 @@
 _repo: US-copyright-renewals-artwork-1965-1977_70611
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70611-h/images/cover.jpg
 creator:
   author:
     agent_name: Library of Congress. Copyright Office
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/141
     wikipedia: https://en.wikipedia.org/wiki/United_States_Copyright_Office
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70611#US-copyright-renewals-artwork-1965-1977
 gutenberg_issued: '2023-04-21'
 identifiers:
   gutenberg: '70611'
